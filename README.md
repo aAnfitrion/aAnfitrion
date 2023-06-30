@@ -10,27 +10,27 @@ Este es mi perfil de GitHub. Mi seudónimo es Anfitrion, pero mis amigos me llam
     <ul>
       <li>
         [ ✓ ] JavaScript
-        <img src="assets/javascript.svg" style="height: 1em;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386405150380092/javascript.svg" style="height: 1em;" />
       </li>
       <li>
         [ ✓ ] TypeScript
-        <img src="assets/typescript.svg" style="height: 1em;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387406607560704/typescript.svg" style="height: 1em;" />
       </li>
       <li>
         [ ✓ ] PHP
-        <img src="assets/php.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387404866924624/php.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ✓ ] React
-        <img src="assets/react.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387405600936027/react.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ✓ ] Next JS
-        <img src="assets/next-js.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386406073126922/next-js.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ✓ ] Svelte Kit
-        <img src="assets/svelte.svg" style="height: 1em;"/>
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387406234271864/svelte.svg" style="height: 1em;"/>
       </li>
     </ul>
   </div>
@@ -39,23 +39,23 @@ Este es mi perfil de GitHub. Mi seudónimo es Anfitrion, pero mis amigos me llam
     <ul>
       <li>
         [ * ] JavaScript
-        <img src="assets/javascript.svg" style="height: 1em;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386405150380092/javascript.svg" style="height: 1em;" />
       </li>
       <li>
         [ * ] Svelte Kit
-        <img src="assets/svelte.svg" style="height: 1em;"/>
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387406234271864/svelte.svg" style="height: 1em;"/>
       </li>
       <li>
         [ * ] Next JS
-        <img src="assets/next-js.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386406073126922/next-js.svg" style="height: 1rem;" />
       </li>
       <li>
         [ * ] Laravel
-        <img src="assets/laravel.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386405766926407/laravel.svg" style="height: 1rem;" />
       </li>
       <li>
         [ * ] Docker
-        <img src="assets/docker.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386400406605896/docker.svg" style="height: 1rem;" />
       </li>
     </ul>
   </div>
@@ -64,27 +64,31 @@ Este es mi perfil de GitHub. Mi seudónimo es Anfitrion, pero mis amigos me llam
     <ul>
       <li>
         [ ➜ ] Go
-        <img src="assets/go.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386404248600676/go.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ➜ ] Rust
-        <img src="assets/rust.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387405932277766/rust.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ➜ ] Python
-        <img src="assets/python.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387405185695765/python.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ➜ ] Java
-        <img src="assets/java.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386404714156092/java.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ➜ ] Kotlin
-        <img src="assets/kotlin.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386405448171640/kotlin.svg" style="height: 1rem;" />
       </li>
       <li>
         [ ➜ ] Vue
-        <img src="assets/vue.svg" style="height: 1rem;" />
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124387406947303545/vue.svg" style="height: 1rem;" />
+      </li>
+      <li>
+        [ ➜ ] Express
+        <img src="https://cdn.discordapp.com/attachments/1121097409653645402/1124386403908866098/express.svg" style="height: 1rem;" />
       </li>
     </ul>
   </div>
