@@ -61,30 +61,32 @@ Este es mi perfil de GitHub. Mi seudónimo es Anfitrion, pero mis amigos me llam
   </div>
   <div style="display: ; justify-content: center;">
     <h3 style="text-align: end; font-weight: 700;">[ ➜ ] Planeo aprender</h3>
-    <li>
-      [ ➜ ] Go
-      <img src="assets/go.svg" style="height: 1rem;" />
-    </li>
-    <li>
-      [ ➜ ] Rust
-      <img src="assets/rust.svg" style="height: 1rem;" />
-    </li>
-    <li>
-      [ ➜ ] Python
-      <img src="assets/python.svg" style="height: 1rem;" />
-    </li>
-    <li>
-      [ ➜ ] Java
-      <img src="assets/java.svg" style="height: 1rem;" />
-    </li>
-    <li>
-      [ ➜ ] Kotlin
-      <img src="assets/kotlin.svg" style="height: 1rem;" />
-    </li>
-    <li>
-      [ ➜ ] Vue
-      <img src="assets/vue.svg" style="height: 1rem;" />
-    </li>
+    <ul>
+      <li>
+        [ ➜ ] Go
+        <img src="assets/go.svg" style="height: 1rem;" />
+      </li>
+      <li>
+        [ ➜ ] Rust
+        <img src="assets/rust.svg" style="height: 1rem;" />
+      </li>
+      <li>
+        [ ➜ ] Python
+        <img src="assets/python.svg" style="height: 1rem;" />
+      </li>
+      <li>
+        [ ➜ ] Java
+        <img src="assets/java.svg" style="height: 1rem;" />
+      </li>
+      <li>
+        [ ➜ ] Kotlin
+        <img src="assets/kotlin.svg" style="height: 1rem;" />
+      </li>
+      <li>
+        [ ➜ ] Vue
+        <img src="assets/vue.svg" style="height: 1rem;" />
+      </li>
+    </ul>
   </div>
 </section>
 
